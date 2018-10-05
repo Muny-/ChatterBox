@@ -1,0 +1,30 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatterBox", "ChatterBox\ChatterBox.csproj", "{7747D3A8-63D8-4B8B-A70C-599C6EFED2BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7747D3A8-63D8-4B8B-A70C-599C6EFED2BA}.Debug|x86.ActiveCfg = Debug|x86
+		{7747D3A8-63D8-4B8B-A70C-599C6EFED2BA}.Debug|x86.Build.0 = Debug|x86
+		{7747D3A8-63D8-4B8B-A70C-599C6EFED2BA}.Release|x86.ActiveCfg = Release|x86
+		{7747D3A8-63D8-4B8B-A70C-599C6EFED2BA}.Release|x86.Build.0 = Release|x86
+		{7747D3A8-63D8-4B8B-A70C-599C6EFED2BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7747D3A8-63D8-4B8B-A70C-599C6EFED2BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.TextStylePolicy = $2
+		$2.FileWidth = 80
+		$2.TabsToSpaces = True
+		$2.scope = text/plain
+		$0.StandardHeader = $3
+	EndGlobalSection
+EndGlobal

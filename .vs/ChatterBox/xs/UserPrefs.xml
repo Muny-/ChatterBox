@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{7747D3A8-63D8-4B8B-A70C-599C6EFED2BA}|Default">
+  <MonoDevelop.Ide.ItemProperties.ChatterBox PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChatterBox/ColorHelper.cs">
+    <Files>
+      <File FileName="ChatterBox/Program.cs" Line="13" Column="31" />
+      <File FileName="ChatterBox/Client.cs" Line="37" Column="13" />
+      <File FileName="ChatterBox/ChatMessageUserWidget.cs" Line="18" Column="13" />
+      <File FileName="ChatterBox/ChatMessageMessageWidget.cs" Line="37" Column="35" />
+      <File FileName="ChatterBox/MainWindow.cs" Line="89" Column="47" />
+      <File FileName="ChatterBox/MessageTableWidget.cs" Line="16" Column="10" />
+      <File FileName="ChatterBox/ServerPageWidget.cs" Line="48" Column="31" />
+      <File FileName="ChatterBox/Packets/ParserPacket.cs" Line="84" Column="50" />
+      <File FileName="ChatterBox/ChatWidget.cs" Line="33" Column="50" />
+      <File FileName="ChatterBox/CellRendererWidget.cs" Line="23" Column="19" />
+      <File FileName="ChatterBox/ColorHelper.cs" Line="21" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
